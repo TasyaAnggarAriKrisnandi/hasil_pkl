@@ -1,0 +1,5 @@
+<form action="" method="post">
+    <input type="text" name="email" placeholder="email">
+    <input type="password" name="password" placeholder="password">
+    <button type="submit" name="submit">Login</button>
+</form>
